@@ -5,7 +5,7 @@ I'm looking for a full time role, so if you know of anyone looking to hire an en
 
 ---
 
-### Projects
+### Projects 🏗 
 * [FitHub - Website](https://fithub.fly.dev/)
   * [Repo](https://github.com/kairos4213/fithub)
 ---
